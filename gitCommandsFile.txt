@@ -10,5 +10,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 8: Building the Pages"
+git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 9: Building the App Layout"
 git push -u origin main
