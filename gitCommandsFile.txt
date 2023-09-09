@@ -1,0 +1,14 @@
+echo "# react-world-wise" >> README.md
+git init
+git add --all
+git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 02: Creating Our First App With Vite WorldWise"
+git branch -M main
+git remote add origin https://github.com/Muhammad-Sabbir/react-world-wise.git
+git push -u origin main
+
+
+
+
+git remote add origin https://github.com/Muhammad-Sabbir/react-world-wise.git
+git branch -M main
+git push -u origin main
