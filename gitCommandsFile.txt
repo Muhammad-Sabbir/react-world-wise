@@ -9,6 +9,6 @@ git push -u origin main
 
 
 
-git remote add origin https://github.com/Muhammad-Sabbir/react-world-wise.git
-git branch -M main
+git add --all
+git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 04: Implementing Main Pages and Routes"
 git push -u origin main
