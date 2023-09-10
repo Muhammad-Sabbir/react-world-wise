@@ -3,7 +3,7 @@ import Message from "./Message";
 import styles from "./CityList.module.css";
 import CityItem from "./CityItem";
 function CityList({ cities, isLoading }) {
-  cities.map((el) => console.log(el.id));
+  // cities.map((el) => console.log(el.id));
   if (isLoading) return <Spinner />;
   if (!cities.length)
     return (

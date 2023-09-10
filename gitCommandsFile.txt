@@ -10,5 +10,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 15. Reading and Setting a Query String"
+git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 16. Programmatic Navigation with useNavigate"
 git push -u origin main

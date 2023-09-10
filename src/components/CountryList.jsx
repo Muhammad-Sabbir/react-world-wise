@@ -4,7 +4,7 @@ import styles from "./CountryList.module.css";
 import CountryItem from "./CountryItem";
 
 function CountryList({ cities, isLoading }) {
-  cities.map((el) => console.log(el.id));
+  // cities.map((el) => console.log(el.id));
   if (isLoading) return <Spinner />;
 
   if (!cities.length)
@@ -17,11 +17,11 @@ function CountryList({ cities, isLoading }) {
       return [...arr, { country: city.country, emoji: city.emoji }];
     else return arr;
   }, []);
-
+  console.log("bal amar");
   return (
     <ul className={styles.countryList}>
-      {countries.map((city) => (
-        <CountryItem country={city} key={city.id} />
+      {countries.map((country) => (
+        <CountryItem country={country} key={country.id} />
       ))}
     </ul>
   );
