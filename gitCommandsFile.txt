@@ -10,5 +10,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 10: Nested Routes and Index Route"
+git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 11: Implementing the Cities List"
 git push -u origin main
