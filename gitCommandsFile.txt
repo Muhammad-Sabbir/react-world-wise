@@ -10,5 +10,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 11: Implementing the Cities List"
+git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 12. Implementing the Countries List"
 git push -u origin main
