@@ -10,5 +10,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 14. Dynamic Routes With URL Parameters"
+git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 15. Reading and Setting a Query String"
 git push -u origin main
