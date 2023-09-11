@@ -10,5 +10,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 16. Programmatic Navigation with useNavigate"
+git commit -m "Chapter 17: React Router Building Single-Page Applications (SPA) >> Tutorial 17. Programmatic Navigation with Navigate "
 git push -u origin main
