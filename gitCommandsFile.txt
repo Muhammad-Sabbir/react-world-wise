@@ -10,5 +10,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 18: Advanced State Management The Context API >> Tutorial 8. Back to WorldWise Creating a CitiesContext "
+git commit -m "Chapter 18: Advanced State Management The Context API >> Tutorial 9. Consuming the CitiesContext"
 git push -u origin main
