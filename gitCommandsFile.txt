@@ -10,5 +10,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 18: Advanced State Management The Context API >> Tutorial 11. Including a Map With the Leaflet Library"
+git commit -m "Chapter 18: Advanced State Management The Context API >> Tutorial 12. Displaying City Markers on Map"
 git push -u origin main
