@@ -10,5 +10,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 18: Advanced State Management The Context API >> Tutorial 12. Displaying City Markers on Map"
+git commit -m "Chapter 18: Advanced State Management The Context API >> Tutorial 13. Interacting With the Map"
 git push -u origin main
