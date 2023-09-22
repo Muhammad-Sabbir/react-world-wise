@@ -10,5 +10,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 18: Advanced State Management The Context API >> Tutorial 16.  Creating a New City"
+git commit -m "Chapter 18: Advanced State Management The Context API >> Tutorial 17.  Deleting a City"
 git push -u origin main
