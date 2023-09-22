@@ -35,6 +35,66 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "San Millan de los Caballeros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-22T08:17:50.388Z",
+      "notes": "",
+      "position": {
+        "lat": "42.27730877423709",
+        "lng": "-5.559082031250001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "San Millan de los Caballeros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-22T08:20:47.619Z",
+      "notes": "test",
+      "position": {
+        "lat": "42.27730877423709",
+        "lng": "-5.559082031250001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Canales de la Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-22T08:21:38.712Z",
+      "notes": "test",
+      "position": {
+        "lat": "42.19596877629178",
+        "lng": "-3.1201171875"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Santiago de la Puebla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-22T08:25:39.621Z",
+      "notes": "we",
+      "position": {
+        "lat": "40.78054143186033",
+        "lng": "-5.3173828125"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Santiago de la Puebla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-22T08:27:02.623Z",
+      "notes": "",
+      "position": {
+        "lat": "40.78054143186033",
+        "lng": "-5.3173828125"
+      },
+      "id": 98443202
     }
   ]
 }
